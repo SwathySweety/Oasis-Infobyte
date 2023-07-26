@@ -1,2 +1,1 @@
-# Oasis-Infobyte
-i want to submit my projects in this repository
+# Oasis-Infobyte task 1
